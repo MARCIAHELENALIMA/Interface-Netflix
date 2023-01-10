@@ -52,6 +52,12 @@ body{
   border-color: #dd0e15;
 }
 
+.join-btn a{
+  text-decoration: none;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
 .main{
   position: relative;
   margin-top: 60px;
@@ -179,4 +185,8 @@ body{
   font-size: 18px;
   font-weight: 400;
   opacity: 1;
+}
+
+.footer-text b{
+  color: #dd0e15;
 }
